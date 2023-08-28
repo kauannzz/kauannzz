@@ -1,6 +1,6 @@
 ### Olá, bem vindo ao meu perfil no GitHub. 
 
-Me chamo Kauan, tenho 19 anos e no momento estou estudando Python, SQL e Java! Um pouco de JavaScript também.
+Me chamo Kauan, tenho 20 anos e no momento estou estudando Python, SQL e Java! Um pouco de JavaScript também.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-alves-dos-santos/)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
